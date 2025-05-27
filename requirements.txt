@@ -1,0 +1,12 @@
+python-dotenv
+langchain
+langchain-community
+langchain-openai
+langchain-chroma
+langchain-text-splitters
+openai
+chromadb
+gradio
+PyPDF2
+spacy
+beautifulsoup4
